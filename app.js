@@ -55,3 +55,5 @@ const img = document.getElementById("foster-img");
 const fosterName = document.getElementById("foster-name");
 const colorDescription = document.getElementById("color-description");
 const info = document.getElementById("info");
+
+// adding a comment
